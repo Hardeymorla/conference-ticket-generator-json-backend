@@ -1,0 +1,23 @@
+{
+    "events": [
+      {
+        "id": "event001",
+        "title": "Techember Fest ’25",
+        "description": "Join us for an unforgettable tech experience!",
+        "date": "March 15, 2025",
+        "time": "7:00 PM",
+        "location": "Lagos Tech Arena",
+        "hostId": "user002",
+        "tickets": [
+          { "type": "Regular", "price": "Free", "available": 100, "details": "Regular ACCESS" },
+          { "type": "VIP", "price": 150, "available": 50, "details": "Vip ACCESS" },
+          { "type": "VVIP", "price": 250, "available": 20, "details": "VVIP ACCESS" }
+        ],
+        "imageUrl": "event-banner.jpg",
+        "createdAt": "2025-10-05T12:00:00Z"
+      }
+    ],
+    "users": [],
+    "bookings": []
+  }
+  
